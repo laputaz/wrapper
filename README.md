@@ -1,4 +1,4 @@
-# scrollTop
-滚动到顶部 Vue 组件
+# wrapper
+可滚动布局, 类似echarts官网
 
-![滚动到顶部](./scrolltop.png)
+![滚动到顶部](./wrapper.png)
